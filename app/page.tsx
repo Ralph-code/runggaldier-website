@@ -16,13 +16,13 @@ export default function Home() {
         className="relative z-10 text-center"
       >
         <h1 className="text-7xl md:text-9xl font-black italic uppercase tracking-tighter">
-          RUNGGALDIER<span className="text-[#dfff00]">.</span>
+          BON DI<span className="text-[#dfff00]">...</span>
         </h1>
         
         <div className="flex items-center justify-center gap-4 mt-4">
           <div className="h-0.5 w-12 bg-[#dfff00]"></div>
           <p className="text-sm md:text-lg font-light tracking-[0.3em] uppercase opacity-80">
-            Portfolio 2026 // Creative Dev
+            Portfolio 2026 // Social Media
           </p>
           <div className="h-0.5 w-12 bg-[#dfff00]"></div>
         </div>
