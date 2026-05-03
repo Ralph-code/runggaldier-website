@@ -20,11 +20,11 @@ export default function Home() {
         </h1>
         
         <div className="flex items-center justify-center gap-4 mt-4">
-          <div className="h-[2px] w-12 bg-[#dfff00]"></div>
+          <div className="h-0.5 w-12 bg-[#dfff00]"></div>
           <p className="text-sm md:text-lg font-light tracking-[0.3em] uppercase opacity-80">
             Portfolio 2026 // Creative Dev
           </p>
-          <div className="h-[2px] w-12 bg-[#dfff00]"></div>
+          <div className="h-0.5 w-12 bg-[#dfff00]"></div>
         </div>
       </motion.div>
 
